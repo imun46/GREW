@@ -14,10 +14,10 @@
 
 - **팀명:** 토티토티
 - **프로젝트 명:** GREW
-- **프로젝트 기간:** 2024.12.01 - 2025.01.08
+- **프로젝트 기간:** 2024.12.01 - 2025.01.08(총 39일)
 - **프로젝트 링크:** [GREW](http://43.203.0.119:3000/)
 - **테스트 계정:** ID:qwer1234 PW:qwer1234
-- **어드 계정:** ID:admin1234 PW:admin1234
+- **어드민 계정:** ID:admin1234 PW:admin1234
   
 ---
 
@@ -27,7 +27,7 @@
 |![avatar1](https://github.com/user-attachments/assets/e455a119-73b7-4414-b63b-6efac5e7db96)|![avatar2](https://github.com/user-attachments/assets/d6d41412-eeab-497f-af0a-b6a0ae7b0b88)|![avatar3](https://github.com/user-attachments/assets/0ee8d9a1-c25b-4bb8-a8e7-e56a059c92a8)|![avatar4](https://github.com/user-attachments/assets/71ecf5e9-e5c4-4d20-82f1-a74770c59e38)|
 |:---:|:---:|:---:|:---:|
 | **나문정** <br> BE/FE 1팀장 <br> [@나문정](https://github.com/imun46)| **김진영** <br> BE/FE 2팀장 <br> [@김진영](https://github.com/Gosem7)| **김찬영** <br> BE/FE <br> [@김찬영](https://github.com/kctml2935)| **문준형** <br> BE/FE <br> [@문준형](https://github.com/Cloudorair)|
-| - 팔로우, 신고 <br> - 어드민 <br> - 총괄 | - 웹소켓 <br> - 채팅 <br> - 총괄 | - 리뷰 <br> - 채팅 이미지 <br> - 웹소켓 | - 멘토 프로필 <br> - 멘토 컨텐츠 <br> - 이미지 업로드 |
+| - 회원관리 <br> - 팔로우, 신고 <br> - 어드민 <br> - 총괄 | - 웹소켓 <br> - 채팅 <br> - 총괄 | - 리뷰 <br> - 채팅 이미지 <br> - 웹소켓 | - 멘토 프로필 <br> - 멘토 컨텐츠 <br> - 이미지 업로드 |
 
 |![avatar5](https://github.com/user-attachments/assets/59890424-4b31-4343-9090-4cd138155d02)|![avatar6](https://github.com/user-attachments/assets/b769b30b-3615-4fbc-959f-0e470e0ff3ea)|![avatar7](https://github.com/user-attachments/assets/50e77917-afec-44a7-8e83-309bd156f110)|![avatar8](https://github.com/user-attachments/assets/8e17068a-ae67-41eb-b0c2-d193ce372378)|
 |:---:|:---:|:---:|:---:|
